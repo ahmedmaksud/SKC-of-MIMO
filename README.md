@@ -1,6 +1,6 @@
 # Secret-Key Capacity From MIMO Channel Probing
 
-Run [illust.py](illust.py) to obtain illustration plots of the secrecy rate. For plots illustrating analytical secrecy rate and secrecy rate obtained from simulation, run [simu.py](simu.py). For detailed description, please refer to our [MILCOM23](https://ieeexplore.ieee.org/document/10356312) and [WCL24](https://ieeexplore.ieee.org/document/10460260) papers.
+Run [illust.py](illust.py) to obtain illustration plots of the secrecy rate. For plots illustrating analytical secrecy rate and secrecy rate obtained from simulation, run [simu.py](simu.py). For detailed description, please refer to our [MILCOM23](https://ieeexplore.ieee.org/document/10356312) and [WCL24](https://ieeexplore.ieee.org/document/10460260) papers and [slides](https://drive.google.com/file/d/11RQQV1bxjYtt4QUiLFnWyPYyDkho_1rw/view?usp=sharing).
 
 ## Introduction
 A central problem of physical layer security (PLS) is for two friendly nodes (Alice and Bob) to exchange a secret message against an eavesdropper (Eve). The WireTapChannel (WTC) approach by Wyner has been widely studied
